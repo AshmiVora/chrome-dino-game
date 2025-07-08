@@ -13,7 +13,7 @@ A Java-based 2D runner game inspired by the Chrome Dinosaur Game, built as part 
 
 ---
 ## Demo
-
+![Dino Game Demo](dino_game_demo.gif)
 ---
 ##  Project Structure
 ``` yaml
